@@ -1,0 +1,47 @@
+
+
+body {
+  margin-top: 10%;
+  font-family: "Indie Flower", sans-serif;
+}
+
+label {
+  display: inline-block;
+  width: 100px;
+}
+
+input {
+  width: 200px;
+  padding: 5px;
+  font-size: 16px;
+}
+
+button {
+  width: 150px;
+  font-family: "Indie Flower", sans-serif;
+}
+
+h1 {
+  color: #f44336;
+  margin-top: 0px;
+  font-size: 40px;
+}
+
+h2 {
+  margin: 0px;
+  font-size: 28px;
+}
+
+h3 {
+  color: #AAA;
+  margin-top: 0px;
+  font-size: 24px;
+}
+
+.black {
+  color: black;
+}
+
+#balance {
+  color: black;
+}

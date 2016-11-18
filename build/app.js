@@ -5698,9 +5698,9 @@ var SolidityEvent = require("web3/lib/web3/event.js");
     ],
     "unlinked_binary": "0x6060604052603d8060106000396000f36504044633f3de50606060405260e060020a600035046396e4ee3d81146024575b6007565b6024356004350260408051918252519081900360200190f3",
     "events": {},
-    "updated_at": 1479443748213,
+    "updated_at": 1479478622337,
     "links": {},
-    "address": "0xefd0379bd3e2ce2134bcec56f994631cf6b10374"
+    "address": "0x5cd56b1ceab9278fdf3094e1f6dec5c8bfa4264d"
   }
 };
 
@@ -6291,11 +6291,11 @@ var SolidityEvent = require("web3/lib/web3/event.js");
         "type": "event"
       }
     },
-    "updated_at": 1479443748229,
+    "updated_at": 1479478622345,
     "links": {
-      "ConvertLib": "0xefd0379bd3e2ce2134bcec56f994631cf6b10374"
+      "ConvertLib": "0x5cd56b1ceab9278fdf3094e1f6dec5c8bfa4264d"
     },
-    "address": "0x246a7665b9003afd59e566705ceead7483a2a863"
+    "address": "0x8343dd5a1ea2b19d2c33058d8e4e4ec96e0c1a2f"
   }
 };
 
@@ -6835,8 +6835,8 @@ var SolidityEvent = require("web3/lib/web3/event.js");
     ],
     "unlinked_binary": "0x6060604052600080546c0100000000000000000000000033810204600160a060020a0319909116179055610138806100376000396000f3606060405260e060020a60003504630900f010811461003f578063445df0ac146100b85780638da5cb5b146100c6578063fdacd576146100dd575b610002565b34610002576101086004356000805433600160a060020a03908116911614156100b45781905080600160a060020a031663fdacd5766001600050546040518260e060020a02815260040180828152602001915050600060405180830381600087803b156100025760325a03f115610002575050505b5050565b346100025761010a60015481565b346100025761011c600054600160a060020a031681565b346100025761010860043560005433600160a060020a03908116911614156101055760018190555b50565b005b60408051918252519081900360200190f35b60408051600160a060020a039092168252519081900360200190f3",
     "events": {},
-    "updated_at": 1479443748232,
-    "address": "0x40f58f77c504af4e0ed12c313ba07f89b68aa034",
+    "updated_at": 1479478622347,
+    "address": "0x3c5b6ebc21a8dcc67469a9fba478311ccd53288a",
     "links": {}
   }
 };
@@ -43970,11 +43970,11 @@ module.exports = transfer;
 
 },{"crypto":57}],223:[function(require,module,exports){
 module.exports = {
-  "ConvertLib": require("/Users/horefice/Downloads/hack/myproject/build/contracts/ConvertLib.sol.js"),
-  "Migrations": require("/Users/horefice/Downloads/hack/myproject/build/contracts/Migrations.sol.js"),
-  "MetaCoin": require("/Users/horefice/Downloads/hack/myproject/build/contracts/MetaCoin.sol.js"),
+  "ConvertLib": require("/Users/horefice/Documents/GitHub/donatechain/build/contracts/ConvertLib.sol.js"),
+  "MetaCoin": require("/Users/horefice/Documents/GitHub/donatechain/build/contracts/MetaCoin.sol.js"),
+  "Migrations": require("/Users/horefice/Documents/GitHub/donatechain/build/contracts/Migrations.sol.js"),
 };
-},{"/Users/horefice/Downloads/hack/myproject/build/contracts/ConvertLib.sol.js":1,"/Users/horefice/Downloads/hack/myproject/build/contracts/MetaCoin.sol.js":2,"/Users/horefice/Downloads/hack/myproject/build/contracts/Migrations.sol.js":3}]},{},[223])(223)
+},{"/Users/horefice/Documents/GitHub/donatechain/build/contracts/ConvertLib.sol.js":1,"/Users/horefice/Documents/GitHub/donatechain/build/contracts/MetaCoin.sol.js":2,"/Users/horefice/Documents/GitHub/donatechain/build/contracts/Migrations.sol.js":3}]},{},[223])(223)
 });
 
 //// TRUFFLE BOOTSTRAP                                          

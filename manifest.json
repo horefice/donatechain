@@ -2,12 +2,9 @@
   "name" : "DonateChain",
   "version" : "1.0",
   "description" : "Donate using BlockChain",
-  "permissions": [
-    "browsingData"
-  ],
   "browser_action": {
-     "default_icon": "icon.png",
-     "default_popup": "index.html"
+     "default_icon": "build/images/icon.png",
+     "default_popup": "build/index.html"
   },
   "manifest_version": 2
 }

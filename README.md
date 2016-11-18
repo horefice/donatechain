@@ -14,10 +14,10 @@ Thanks for using our service. Hope you enjoy ;)
 ### Installation
 
 1. Clone the repo
-2. `truffle test`
+4. `testRPC`
+2. `truffle test` (on a new tab)
 3. `truffle serve`
-4. `testRPC` (on a new tab)
-5. Add the build folder to Chrome Extensions (developer mode)
+5. Add the main folder to Chrome Extensions (developer mode)
 6. That's It!
 
 ### Authors
